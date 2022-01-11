@@ -7,7 +7,7 @@ dependencies:
   - pip:
     - azureml-sdk==1.37.0
     - azureml-dataset-runtime[pandas,fuse]==1.37.0
-    - scikit-learn=1.0.2
+    - scikit-learn==1.0.2
     - pandas==1.3.5
     - matplotlib==3.3.3
 channels:
