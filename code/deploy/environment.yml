@@ -3,6 +3,7 @@
 
 name: deployment_env
 dependencies:
+  - python=3.8.12
   - pip:
     - azureml-sdk==1.37.0
     - azureml-monitoring==0.1.0a21

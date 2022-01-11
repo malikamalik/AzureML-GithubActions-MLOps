@@ -3,6 +3,7 @@
 
 name: training_env
 dependencies:
+  - python=3.8.12
   - pip:
     - azureml-sdk==1.37.0
     - azureml-dataset-runtime[pandas,fuse]==1.37.0
