@@ -25,6 +25,8 @@ This repository enables Data Scientists to focus on the training and deployment 
 Click on the image to view the video on YouTube. The video shows you the setup process, which is also described below:
 [![Azure Machine Learning GitHub Actions - Setup Guide](http://img.youtube.com/vi/bmFr0LYo_6o/maxresdefault.jpg)](http://www.youtube.com/watch?v=bmFr0LYo_6o "Azure Machine Learning GitHub Actions - Setup Guide")
 
+The documentation for the MLOps Github Action is : https://docs.microsoft.com/en-us/azure/machine-learning/how-to-github-actions-machine-learning
+
 ### 1. Prerequisites
 
 The following prerequisites are required to make this repository work:
